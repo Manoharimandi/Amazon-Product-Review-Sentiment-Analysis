@@ -1,5 +1,12 @@
 # Amazon Product Review Sentiment Analysis
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amazon-appuct-review-sentiment-analysis-2zgaqxewytavzodykqgfg9.streamlit.app)
+
+## 🚀 Live Demo
+
+**Try the application here:**  
+https://amazon-appuct-review-sentiment-analysis-2zgaqxewytavzodykqgfg9.streamlit.app
+
 ## Overview
 
 This project predicts whether an Amazon product review is **Positive** or **Negative** using Natural Language Processing (NLP) and Machine Learning.
