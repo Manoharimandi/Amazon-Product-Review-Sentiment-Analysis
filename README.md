@@ -2,11 +2,6 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amazon-appuct-review-sentiment-analysis-2zgaqxewytavzodykqgfg9.streamlit.app)
 
-## 🚀 Live Demo
-
-**Try the application here:**  
-https://amazon-appuct-review-sentiment-analysis-2zgaqxewytavzodykqgfg9.streamlit.app
-
 ## 📸 Project Screenshots
 
 ### Home Page
@@ -17,13 +12,13 @@ https://amazon-appuct-review-sentiment-analysis-2zgaqxewytavzodykqgfg9.streamlit
 
 ### Positive Prediction
 
-![Positive Prediction](images/positive_prediction.png)
+![Positive Prediction](images/positive_review.png)
 
 ---
 
 ### Negative Prediction
 
-![Negative Prediction](images/negative_prediction.png)
+![Negative Prediction](images/negative_review.png)
 
 ## Overview
 
