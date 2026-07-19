@@ -7,6 +7,24 @@
 **Try the application here:**  
 https://amazon-appuct-review-sentiment-analysis-2zgaqxewytavzodykqgfg9.streamlit.app
 
+## 📸 Project Screenshots
+
+### Home Page
+
+![Home](images/home.png)
+
+---
+
+### Positive Prediction
+
+![Positive Prediction](images/positive_prediction.png)
+
+---
+
+### Negative Prediction
+
+![Negative Prediction](images/negative_prediction.png)
+
 ## Overview
 
 This project predicts whether an Amazon product review is **Positive** or **Negative** using Natural Language Processing (NLP) and Machine Learning.
